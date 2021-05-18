@@ -4,3 +4,4 @@
 - https://practice.geeksforgeeks.org/problems/bit-difference-1587115620/1
 ## Mathematics and Number Theory
 - https://practice.geeksforgeeks.org/problems/prime-number2314/1
+- https://practice.geeksforgeeks.org/problems/sieve-of-eratosthenes5242/1
