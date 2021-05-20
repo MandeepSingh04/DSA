@@ -9,9 +9,9 @@
 - https://practice.geeksforgeeks.org/problems/quick-exponents4539/1
 ### IMP Topics
 - sieve of eratosthenes
-- GCD ---> (a,b)=(b,a%b)
-- Modulo Arithmetics ---> a^b%n
-#### other topics
+- GCD   (a,b)=(b,a%b)
+- Modulo Arithmetics   a^b%n
+### other topics
 - BigInteger
 - Pigeon Hole Principle
 - Catalan Numbers
