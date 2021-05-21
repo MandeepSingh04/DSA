@@ -19,4 +19,4 @@
 - Inclusion-Exclusion Principle
 ## Recursion
 - https://practice.geeksforgeeks.org/problems/count-all-possible-paths-from-top-left-to-bottom-right3011/1 (pending) USE DP
-- https://practice.geeksforgeeks.org/problems/josephus-problem/1 (pending)
+- https://practice.geeksforgeeks.org/problems/josephus-problem/1
