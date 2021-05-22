@@ -23,3 +23,8 @@
 - https://leetcode.com/problems/permutations/
 ## Backtracking
 - https://leetcode.com/problems/n-queens/
+
+
+
+## other problems
+- https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3750/
