@@ -10,8 +10,8 @@
 - https://practice.geeksforgeeks.org/problems/extended-euclidean-algorithm3848/1 (pending)
 ### IMP Topics
 - Sieve of Eratosthenes
-- GCD   (a,b)=(b,a%b)
-- Modulo Arithmetics   a^b%n
+- GCD => (a,b)=(b,a%b)
+- Modulo Arithmetics => a^b%n
 ### other topics
 - BigInteger
 - Pigeon Hole Principle
