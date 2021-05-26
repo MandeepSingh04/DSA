@@ -28,5 +28,5 @@
 
 
 
-## other problems
+## other problems (general)
 - https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3750/
