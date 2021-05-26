@@ -23,7 +23,7 @@
 - https://leetcode.com/problems/permutations/
 #### Cf questions (26)
 - https://codeforces.com/group/MWSDmqGsZm/contest/223339
-## Backtracking
+## Backtracking (pending)
 - https://leetcode.com/problems/n-queens/
 
 
