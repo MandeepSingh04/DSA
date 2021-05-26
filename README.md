@@ -25,7 +25,8 @@
 - https://codeforces.com/group/MWSDmqGsZm/contest/223339
 ## Backtracking (pending)
 - https://leetcode.com/problems/n-queens/
-
+## Arrays
+- https://leetcode.com/problems/majority-element/
 
 
 ## other problems (general)
