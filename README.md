@@ -27,7 +27,7 @@
 ## Backtracking (pending)
 - https://leetcode.com/problems/n-queens/
 ## Arrays
-- https://leetcode.com/problems/majority-element/
+- https://leetcode.com/problems/majority-element/ (Moore's Voting Algorithm)
 
 
 ## other problems (general)
