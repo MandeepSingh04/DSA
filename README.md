@@ -1,5 +1,5 @@
 ## Algorithms
-- Brian Kernighan’s Algorithm https://practice.geeksforgeeks.org/problems/set-bits0143/1 n=n&(n-1)
+- Brian Kernighan’s Algorithm https://practice.geeksforgeeks.org/problems/set-bits0143/1 [n=n&(n-1)]
 - Moore's Voting Algorithm https://leetcode.com/problems/majority-element/
 ## Bit Manipuation
 - https://practice.geeksforgeeks.org/problems/set-bits0143/1 (Brian Kernighan’s Algorithm -> n=n&(n-1))
