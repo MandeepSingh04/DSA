@@ -21,6 +21,7 @@
 - https://practice.geeksforgeeks.org/problems/count-all-possible-paths-from-top-left-to-bottom-right3011/1 (pending) USE DP
 - https://practice.geeksforgeeks.org/problems/josephus-problem/1
 - https://leetcode.com/problems/permutations/
+- https://leetcode.com/problems/rectangle-overlap/submissions/
 #### Cf questions (26)
 - https://codeforces.com/group/MWSDmqGsZm/contest/223339
 ## Backtracking (pending)
