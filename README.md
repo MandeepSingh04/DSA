@@ -11,7 +11,7 @@
 - https://practice.geeksforgeeks.org/problems/sieve-of-eratosthenes5242/1
 - https://practice.geeksforgeeks.org/problems/quick-exponents4539/1
 - https://practice.geeksforgeeks.org/problems/extended-euclidean-algorithm3848/1 (pending)
-### IMP Topics                      ### other topics
+### IMP Topics
 - Sieve of Eratosthenes
 - GCD => (a,b)=(b,a%b)
 - Modulo Arithmetics => a^b%n
