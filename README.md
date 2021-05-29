@@ -32,6 +32,7 @@
 - https://leetcode.com/problems/n-queens/
 ## Arrays
 - https://leetcode.com/problems/majority-element/ (Moore's Voting Algorithm)
+- https://leetcode.com/problems/maximum-subarray/ (Kadane's Algorithm)
 
 
 ## other problems (general)
