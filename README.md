@@ -27,7 +27,7 @@
 - https://practice.geeksforgeeks.org/problems/josephus-problem/1
 - https://leetcode.com/problems/permutations/
 - https://leetcode.com/problems/rectangle-overlap/submissions/
-#### Cf questions (26)
+#### Cf questions (10/26)
 - https://codeforces.com/group/MWSDmqGsZm/contest/223339
 ## Backtracking (pending)
 - https://leetcode.com/problems/n-queens/
