@@ -2,7 +2,7 @@
 - Brian Kernighan’s Algorithm - https://practice.geeksforgeeks.org/problems/set-bits0143/1 [n=n&(n-1)]
 - Moore's Voting Algorithm - https://leetcode.com/problems/majority-element/
 - Kadane's Algorithm - https://leetcode.com/problems/maximum-subarray/ 
-- Euclidean Algorithm (gcd) - 
+- Euclidean Algorithm (gcd) - https://practice.geeksforgeeks.org/problems/extended-euclidean-algorithm3848/1
 ## Bit Manipuation
 - https://practice.geeksforgeeks.org/problems/set-bits0143/1 (Brian Kernighan’s Algorithm)
 - https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1
