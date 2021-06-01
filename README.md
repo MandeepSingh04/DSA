@@ -35,6 +35,7 @@
 ## Arrays
 - https://leetcode.com/problems/majority-element/ (Moore's Voting Algorithm)
 - https://leetcode.com/problems/maximum-subarray/ (Kadane's Algorithm)
+- https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
 
 ## other problems (general)
