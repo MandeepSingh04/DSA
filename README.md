@@ -39,7 +39,7 @@
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/ (pending)
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/ (pending)
-- https://leetcode.com/problems/trapping-rain-water/ (pending)
+- https://leetcode.com/problems/trapping-rain-water/ (done)
 
 
 ## other problems (general)
