@@ -24,7 +24,7 @@
 - Catalan Numbers
 - Inclusion-Exclusion Principle
 ## Recursion
-- https://practice.geeksforgeeks.org/problems/count-all-possible-paths-from-top-left-to-bottom-right3011/1 (pending) To be done using DP
+- https://practice.geeksforgeeks.org/problems/count-all-possible-paths-from-top-left-to-bottom-right3011/1 (pending)
 - https://practice.geeksforgeeks.org/problems/josephus-problem/1
 - https://leetcode.com/problems/permutations/
 - https://leetcode.com/problems/rectangle-overlap/submissions/
