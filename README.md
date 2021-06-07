@@ -30,8 +30,8 @@
 - https://leetcode.com/problems/rectangle-overlap/submissions/
 #### Cf questions (10/26)
 - https://codeforces.com/group/MWSDmqGsZm/contest/223339
-## Backtracking (pending)
-- https://leetcode.com/problems/n-queens/
+## Backtracking 
+- https://leetcode.com/problems/n-queens/ (pending)
 ## Arrays
 - https://leetcode.com/problems/majority-element/ (Moore's Voting Algorithm)
 - https://leetcode.com/problems/maximum-subarray/ (Kadane's Algorithm)
