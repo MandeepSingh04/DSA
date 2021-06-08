@@ -41,6 +41,7 @@
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/ (pending)
 - https://leetcode.com/problems/trapping-rain-water/ 
 - https://leetcode.com/problems/flipping-an-image/submissions/ (again)
+## Sorting
 
 
 ## other problems (general)
