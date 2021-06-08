@@ -42,7 +42,8 @@
 - https://leetcode.com/problems/trapping-rain-water/ 
 - https://leetcode.com/problems/flipping-an-image/submissions/ (again)
 ## Sorting
-
+- Bubble sort
+- Insertion sort
 
 ## other problems (general)
 - https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3750/
