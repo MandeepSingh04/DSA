@@ -16,7 +16,7 @@
 ### IMP Topics
 - Sieve of Eratosthenes : https://practice.geeksforgeeks.org/problems/sieve-of-eratosthenes5242/1
 - GCD => (a,b)=(b,a%b) : https://practice.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1
-- Modulo Arithmetics => a^b%n
+- Modulo Arithmetics => a^b%n : https://leetcode.com/problems/super-pow/
 ### other topics
 - BigInteger
 - Pigeon Hole Principle
