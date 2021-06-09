@@ -43,7 +43,7 @@
 - https://leetcode.com/problems/flipping-an-image/submissions/ (again)
 ## Sorting
 - Bubble sort : https://practice.geeksforgeeks.org/problems/bubble-sort/1
-- Insertion sort
+- Insertion sort : https://practice.geeksforgeeks.org/problems/insertion-sort/1
 - Selection sort 
 
 ## other problems (general)
