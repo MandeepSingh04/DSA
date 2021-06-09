@@ -42,7 +42,7 @@
 - https://leetcode.com/problems/trapping-rain-water/ 
 - https://leetcode.com/problems/flipping-an-image/submissions/ (again)
 ## Sorting
-- Bubble sort
+- Bubble sort : https://practice.geeksforgeeks.org/problems/bubble-sort/1
 - Insertion sort
 - Selection sort 
 
