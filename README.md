@@ -10,13 +10,12 @@
 - https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1
 ## Mathematics and Number Theory
 - https://practice.geeksforgeeks.org/problems/prime-number2314/1
-- https://practice.geeksforgeeks.org/problems/sieve-of-eratosthenes5242/1
 - https://practice.geeksforgeeks.org/problems/quick-exponents4539/1
 - https://practice.geeksforgeeks.org/problems/extended-euclidean-algorithm3848/1 (pending)
 - https://leetcode.com/problems/maximum-gap/
 ### IMP Topics
-- Sieve of Eratosthenes
-- GCD => (a,b)=(b,a%b)
+- Sieve of Eratosthenes : https://practice.geeksforgeeks.org/problems/sieve-of-eratosthenes5242/1
+- GCD => (a,b)=(b,a%b) : https://practice.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1
 - Modulo Arithmetics => a^b%n
 ### other topics
 - BigInteger
