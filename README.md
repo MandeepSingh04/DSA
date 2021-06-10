@@ -44,6 +44,7 @@
 - Bubble sort : https://practice.geeksforgeeks.org/problems/bubble-sort/1
 - Insertion sort : https://practice.geeksforgeeks.org/problems/insertion-sort/1
 - Selection sort : https://practice.geeksforgeeks.org/problems/selection-sort/1
+## Dynamic Programming
 
 ## other problems (general)
 - https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3750/
