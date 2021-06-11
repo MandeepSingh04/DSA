@@ -43,6 +43,7 @@
 - Bubble sort : https://practice.geeksforgeeks.org/problems/bubble-sort/1
 - Insertion sort : https://practice.geeksforgeeks.org/problems/insertion-sort/1
 - Selection sort : https://practice.geeksforgeeks.org/problems/selection-sort/1
+- Quick sort
 ## Dynamic Programming
 - 
 
