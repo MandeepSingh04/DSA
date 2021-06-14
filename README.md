@@ -44,7 +44,7 @@
 - Insertion sort : https://practice.geeksforgeeks.org/problems/insertion-sort/1
 - Selection sort : https://practice.geeksforgeeks.org/problems/selection-sort/1
 - Quick sort : https://practice.geeksforgeeks.org/problems/quick-sort/1
-- Merge sort
+- Merge sort : 
 ## Dynamic Programming
 - 
 
