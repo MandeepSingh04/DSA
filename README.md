@@ -39,9 +39,9 @@
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/ (pending)
 - https://leetcode.com/problems/trapping-rain-water/ 
 - https://leetcode.com/problems/flipping-an-image/submissions/ (again)
-## Sorting (pending)
-- Bubble sort : https://practice.geeksforgeeks.org/problems/bubble-sort/1
-- Insertion sort : https://practice.geeksforgeeks.org/problems/insertion-sort/1
+## Sorting
+- Bubble sort : https://practice.geeksforgeeks.org/problems/bubble-sort/1 done
+- Insertion sort : https://practice.geeksforgeeks.org/problems/insertion-sort/1 done
 - Selection sort : https://practice.geeksforgeeks.org/problems/selection-sort/1
 - Quick sort : https://practice.geeksforgeeks.org/problems/quick-sort/1
 - Merge sort : 
