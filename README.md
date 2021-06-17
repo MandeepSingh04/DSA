@@ -45,6 +45,7 @@
 - Selection sort : https://practice.geeksforgeeks.org/problems/selection-sort/1
 - Quick sort : https://practice.geeksforgeeks.org/problems/quick-sort/1
 - Merge sort : https://practice.geeksforgeeks.org/problems/merge-sort/1
+## Searching
 ## Dynamic Programming
 - 
 ## Stack
