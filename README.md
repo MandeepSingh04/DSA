@@ -14,6 +14,7 @@
 - https://practice.geeksforgeeks.org/problems/quick-exponents4539/1
 - https://practice.geeksforgeeks.org/problems/extended-euclidean-algorithm3848/1 (pending)
 - https://leetcode.com/problems/maximum-gap/
+- Check if power of 2 : https://leetcode.com/problems/power-of-two/ [use n&(n-1)]
 ### IMP Topics
 - Sieve of Eratosthenes : https://practice.geeksforgeeks.org/problems/sieve-of-eratosthenes5242/1
 - GCD => (a,b)=(b,a%b) : https://practice.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1
