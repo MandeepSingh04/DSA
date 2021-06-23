@@ -50,6 +50,7 @@
 - Merge sort : https://practice.geeksforgeeks.org/problems/merge-sort/1
 ## Searching
 ## Dynamic Programming
+- n Queen problem
 ## Stack
 ## Queue
 ## Linked List 
