@@ -9,6 +9,7 @@
 - https://practice.geeksforgeeks.org/problems/bit-difference-1587115620/1
 - https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1
 - https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/ (bitset)
+- https://leetcode.com/problems/divide-two-integers/
 ## Mathematics and Number Theory
 - https://practice.geeksforgeeks.org/problems/prime-number2314/1
 - https://practice.geeksforgeeks.org/problems/quick-exponents4539/1
