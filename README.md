@@ -52,6 +52,7 @@
 ## Dynamic Programming
 - n Queen problem
 ## Linked List 
+- https://leetcode.com/problems/reverse-linked-list/submissions/
 ## Stack
 ## Queue
 
