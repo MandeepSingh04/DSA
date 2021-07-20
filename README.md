@@ -60,3 +60,5 @@
 ## other problems (general)
 - https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3750/
 - https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/603/week-1-june-1st-june-7th/3765/ (to do)
+## To do
+- 2 pointer
