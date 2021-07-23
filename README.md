@@ -56,6 +56,7 @@
 - https://leetcode.com/problems/reverse-linked-list-ii/submissions/
 
 ## Stack
+- https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/ (try using string as stack)
 ## Queue
 ## Puzzles
 ## other problems (general)
