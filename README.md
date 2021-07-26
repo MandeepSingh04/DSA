@@ -51,7 +51,7 @@
 - Merge sort : https://practice.geeksforgeeks.org/problems/merge-sort/1
 ## Searching
 ## Dynamic Programming
-- n Queen problem
+- n Queen problem : https://leetcode.com/problems/n-queens/
 ## Linked List 
 - https://leetcode.com/problems/reverse-linked-list/submissions/
 - https://leetcode.com/problems/reverse-linked-list-ii/submissions/
