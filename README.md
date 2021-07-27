@@ -47,7 +47,7 @@
 - Bubble sort : https://practice.geeksforgeeks.org/problems/bubble-sort/1 
 - Insertion sort : https://practice.geeksforgeeks.org/problems/insertion-sort/1 
 - Selection sort : https://practice.geeksforgeeks.org/problems/selection-sort/1
-- Quick sort : https://practice.geeksforgeeks.org/problems/quick-sort/1
+- Quick sort : https://practice.geeksforgeeks.org/problems/quick-sort/1 (take middle element as pivot to avoid worst case (sorted array))
 - Merge sort : https://practice.geeksforgeeks.org/problems/merge-sort/1
 ## Searching
 ## Dynamic Programming
