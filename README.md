@@ -55,6 +55,7 @@
 - n Queen problem : https://leetcode.com/problems/n-queens/
 ## Linked List 
 - https://practice.geeksforgeeks.org/problems/circular-linked-list-traversal/1
+- https://practice.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1
 - https://leetcode.com/problems/add-two-numbers/
 - https://leetcode.com/problems/reverse-linked-list/submissions/
 - https://leetcode.com/problems/reverse-linked-list-ii/submissions/
