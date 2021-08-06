@@ -37,6 +37,7 @@
 - https://leetcode.com/problems/n-queens/ (pending)
 ## Arrays
 - https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1
+- https://practice.geeksforgeeks.org/problems/count-the-triplets4615/1
 - https://leetcode.com/problems/majority-element/ (Moore's Voting Algorithm)
 - https://leetcode.com/problems/maximum-subarray/ (Kadane's Algorithm)
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
