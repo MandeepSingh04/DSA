@@ -58,6 +58,7 @@
 - n Queen problem : https://leetcode.com/problems/n-queens/
 ## Linked List 
 - https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1
+- https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1
 - https://practice.geeksforgeeks.org/problems/circular-linked-list-traversal/1
 - https://practice.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1
 - https://leetcode.com/problems/add-two-numbers/
