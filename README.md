@@ -54,6 +54,7 @@
 - Quick sort : https://practice.geeksforgeeks.org/problems/quick-sort/1 (take middle element as pivot to avoid worst case (sorted array))
 - Merge sort : https://practice.geeksforgeeks.org/problems/merge-sort/1
 ## Searching
+- https://practice.geeksforgeeks.org/problems/binary-search/1
 ## Dynamic Programming
 - n Queen problem : https://leetcode.com/problems/n-queens/
 ## Linked List 
