@@ -59,6 +59,7 @@ Hint - Sorted array, or breaking into contigious parts
 - https://practice.geeksforgeeks.org/problems/binary-search/1
 - https://leetcode.com/problems/search-in-rotated-sorted-array/
 - https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+- https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1 (HARD)
 ## Dynamic Programming
 - n Queen problem : https://leetcode.com/problems/n-queens/
 ## Linked List 
