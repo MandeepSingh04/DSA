@@ -55,6 +55,7 @@
 - Merge sort : https://practice.geeksforgeeks.org/problems/merge-sort/1
 ## Searching
 - https://practice.geeksforgeeks.org/problems/binary-search/1
+- https://leetcode.com/problems/search-in-rotated-sorted-array/
 ## Dynamic Programming
 - n Queen problem : https://leetcode.com/problems/n-queens/
 ## Linked List 
