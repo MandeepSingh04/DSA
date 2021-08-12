@@ -54,6 +54,8 @@
 - Quick sort : https://practice.geeksforgeeks.org/problems/quick-sort/1 (take middle element as pivot to avoid worst case (sorted array))
 - Merge sort : https://practice.geeksforgeeks.org/problems/merge-sort/1
 ## Searching
+### Binary Search
+Hint - Sorted array, or breaking into contigious parts
 - https://practice.geeksforgeeks.org/problems/binary-search/1
 - https://leetcode.com/problems/search-in-rotated-sorted-array/
 - https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
