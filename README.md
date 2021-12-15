@@ -77,6 +77,10 @@ Hint - Sorted array, or breaking into contigious parts
 - https://leetcode.com/problems/valid-parentheses/
 - https://leetcode.com/problems/merge-in-between-linked-lists/
 ## Queue
+## DFS
+- https://leetcode.com/problems/max-area-of-island/
+- https://leetcode.com/problems/number-of-islands/
+- https://leetcode.com/problems/find-all-groups-of-farmland/
 ## Puzzles
 ## other problems (general)
 - https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3750/
