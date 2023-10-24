@@ -87,7 +87,13 @@ Hint - Sorted array, or breaking into contigious parts
 ## DFS
 - https://leetcode.com/problems/max-area-of-island/
 - https://leetcode.com/problems/number-of-islands/
-- https://leetcode.com/problems/find-all-groups-of-farmland/
+- https://leetcode.com/problems/find-all-groups-of-farmland/\
+## Graph
+- https://leetcode.com/problems/number-of-islands/
+- https://leetcode.com/problems/course-schedule/
+- https://leetcode.com/problems/snakes-and-ladders/
+- https://leetcode.com/problems/word-search/
+- https://leetcode.com/problems/word-ladder/
 ## Puzzles
 ## other problems (general)
 - https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3750/
