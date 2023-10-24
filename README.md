@@ -80,6 +80,10 @@ Hint - Sorted array, or breaking into contigious parts
 - https://leetcode.com/problems/valid-parentheses/
 - https://leetcode.com/problems/merge-in-between-linked-lists/
 ## Queue
+- https://leetcode.com/problems/implement-stack-using-queues/
+- https://leetcode.com/problems/rotting-oranges/
+- https://leetcode.com/problems/gas-station/
+- https://leetcode.com/problems/sliding-window-maximum/
 ## DFS
 - https://leetcode.com/problems/max-area-of-island/
 - https://leetcode.com/problems/number-of-islands/
