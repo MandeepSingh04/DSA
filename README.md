@@ -63,6 +63,9 @@ Hint - Sorted array, or breaking into contigious parts
 - https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1 (HARD)
 ## Dynamic Programming
 - n Queen problem : https://leetcode.com/problems/n-queens/
+- Unique Binary Search Trees II : https://leetcode.com/problems/unique-binary-search-trees-ii/
+- Knapsack : https://leetcode.com/problems/target-sum/
+- Bit Manipulation : https://leetcode.com/problems/can-i-win/
 ## Linked List 
 - https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1
 - https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1
